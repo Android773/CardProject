@@ -14,7 +14,7 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object cardImage: TImage
-    Left = 208
+    Left = 120
     Top = 16
     Width = 161
     Height = 225

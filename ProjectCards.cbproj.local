@@ -3,11 +3,11 @@
 	<Transactions>
     <Transaction>2017/06/30 12:29:50.000.714,=C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2017/06/30 12:29:53.000.707,=C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2017/06/30 12:44:14.000.027,C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\VCL\Projects\CardForm.dfm</Transaction>
-    <Transaction>2017/06/30 12:44:14.000.027,C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Unit1.h=E:\VCL\Projects\CardForm.h</Transaction>
-    <Transaction>2017/06/30 12:44:14.000.027,C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Unit1.cpp=E:\VCL\Projects\CardForm.cpp</Transaction>
-    <Transaction>2017/06/30 12:44:52.000.738,C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=E:\VCL\Projects\Cards.h</Transaction>
-    <Transaction>2017/06/30 12:45:12.000.624,C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Project1.cbproj=E:\VCL\Projects\ProjectCards.cbproj</Transaction>
-    <Transaction>2017/06/30 12:45:37.000.830,E:\VCL\Projects\Cards.h=E:\VCL\Projects\ProjectCards.h</Transaction>
+    <Transaction>2017/06/30 12:44:14.000.027,E:\VCL\Projects\CardForm.dfm=C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/06/30 12:44:14.000.027,E:\VCL\Projects\CardForm.h=C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017/06/30 12:44:14.000.027,E:\VCL\Projects\CardForm.cpp=C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/06/30 12:44:52.000.738,E:\VCL\Projects\Cards.h=C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/06/30 12:45:12.000.624,E:\VCL\Projects\ProjectCards.cbproj=C:\Users\Vatish.s\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2017/06/30 12:45:37.000.830,E:\VCL\Projects\ProjectCards.h=E:\VCL\Projects\Cards.h</Transaction>
   </Transactions>
 </BorlandProject>
